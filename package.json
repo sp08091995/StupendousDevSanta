@@ -1,0 +1,20 @@
+{
+  "name": "StupendousDevSanta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp08091995/StupendousDevSanta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sp08091995/StupendousDevSanta/issues"
+  },
+  "homepage": "https://github.com/sp08091995/StupendousDevSanta#readme"
+}
